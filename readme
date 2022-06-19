@@ -1,0 +1,41 @@
+The index.html page
+1. Include a brief introduction that describes about the website and its purpose. 
+2. Include your published website URL (Note: If URL is not included, it indicates 
+that  you  have  failed  to  publish  your  website  to  a  free  web  hosting.  Hence, 
+mark penalty will be applied accordingly).
+3.At  the  bottom  of  this  page  (NOT  in  the  footer  section),  include  and  format 
+the following information properly: 
+
+Disclaimer: This website is created for education and non-commercial use 
+only. It is an assignment for completion of unit, FST10011 Web and Cloud 
+Technologies for Foundation Studies (IT/Multimedia) course from Swinburne 
+University of Technology Sarawak Campus. 
+
+yourgroupname.html
+1. Identify  all  the  group  members  and  group  leader.  For  each,  describe  his/her 
+contributions to the website and provide a photo of each group member. 
+2.All above in ONE page only.
+
+The  feedback.html  page  that  allows  visitors  to  give  their  feedback  about  your 
+website. 
+1. The  feedback.html  page  that  allows  visitors  to  give  their  feedback  about  your 
+website. 
+2. Use the <fieldset> and <legend> elements to group related form 
+    elements. 
+3. Use <label> elements to enhance the usability of the form.  
+4. Use a table element to structure the form. 
+
+Your website must include the following elements: 
+
+A well-formatted and structured table for tabular data (other than the form) 
+that  must  include  a  table  caption,  table  headings,  rowspan  and  colspan 
+attributes.  
+
+Lists,  demonstrate  ordered  and  unordered  lists,  or  nested  lists  (other  than 
+the menu). 
+
+Links,  both internal  (to other  pages  (other  than  the  menu  links) and  to page 
+#section),  and  a  minimum  of  two  (2)  external  links  that  links  to  other 
+websites. External links must be displayed in a new window.  
+
+comment  the groups of styles in the external style sheet using the comment elements (/* ... */).   
